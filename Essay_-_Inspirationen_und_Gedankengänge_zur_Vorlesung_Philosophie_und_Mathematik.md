@@ -59,7 +59,9 @@ Erkenntnisse anzuwenden sind. Diese einfachen, allerdings sehr effektiven Anleit
 zur Berechnung mathematischer Probleme verschiedenster Art. Dieses Erstaunen muss
 wohl auch in den Griechen ausgelöst worden sein, als sie diese alten Schriften fanden
 und sich wunderten, wie solch eine Mathematik nur funktionieren konnte. Das musste
-sie zum Nachdenken angeregt haben und führte wahrscheinliche zu der Frage der Beweisbarkeit von mathematischen Sätzen bzw. allg. philosophischer Art von Behauptungen. Dieses fruchtbare Fragen führte denkbar zu den Genies wie wir sie heute unter den Namen Aristoteles, Platon, Hippokrates, Sokrates usw. kennen. Sie begannen alle nach dem
+sie zum Nachdenken angeregt haben und führte wahrscheinliche zu der Frage der Beweisbarkeit von mathematischen Sätzen bzw. allg. philosophischer Art von Behauptungen. 
+
+Dieses fruchtbare Fragen führte denkbar zu den Genies wie wir sie heute unter den Namen Aristoteles, Platon, Hippokrates, Sokrates usw. kennen. Sie begannen alle nach dem
 Universum zu Fragen und philosophierten über Götter und die Welt. Diese Ideen sind
 bis heute glücklicherweise erhalten geblieben und bestimmen nach wie vor unsere heutige Wissenschaft und Philosophie. Dieses Wissen wurde auch für einige Zeit verschüttet
 und wurde zur Zeit der Renaissance abermals entdeckt. Dies löste wiederum eine Welle
@@ -72,7 +74,9 @@ heraus geholt werden, über dem man sich vorher nicht im Klaren war. In mir lös
 enorme Motivation aus, mich mit Mathematik weiterzubeschäftigen. Dieses Verfahren
 sollte des Öfteren in der Schule angewendet werden. Dieser Text müsste in den Schulen
 zu lesen gegeben werden, damit die Kinder bzw. Menschen erkennen können, wie wertvoll und wunderschön die Mathematik sein kann. Viele Menschen besitzen ein falsches Bild von der Mathematik, was zur allgemeinen Ablehnung gegenüber der Mathematik führt. Viele Lehrer sollten diesen Text sich zu Herzen nehmen und dementsprechend
-Mathematik unterrichten. Nun springen wir weiter zum nächsten interessanten Ansicht
+Mathematik unterrichten. 
+
+Nun springen wir weiter zum nächsten interessanten Ansicht
 über Philosophie und Mathematik, der von Kant, Leibniz und Hobbs. Kant war mir
 schon früher als Philosoph bekannt gewesen der zur Zeit der Aufklärung lebte. Er durchleuchtete den menschlichen Geist wie kein anderer mit seinem Werk ,,Kritik der reinen Vernunft``. Jedoch auf der Seite der Mathematik war er mir völlig unbekannt gewesen. Kants Idee war es, dass die Mathematik rein auf der Anschauung basiere. Diese Ansicht ist ein guter Anfang, um in die Mathematik hineinzufinden. Die Anschauung bzw. das Vorstellen von Objekten vor dem geistigen Auge ist eine wichtige Fähigkeit um die Methode der Abstraktion zu lernen. Denn ein Objekt auf verschiedene Eigenschaften zu abstrahieren und versuchen sie mit bekannten Gesetzen zu beschreiben fällt
 nicht wenigen leicht. Diese Stufe der Abstraktion und Vorstellung im Kopf wird benötigt
@@ -99,9 +103,6 @@ nur Projektion dieser vierdimensionalen Objekten erstellen (siehe Abb. \ref{pic-
 
 %\newpage
 
-
-
-
 Wie man bereits im Text mit Hippokrates und Sokrates lesen kann, ist Mathematik nicht nur
 eine Anschauung, sondern besteht auch aus unvorstellbaren Dingen, die nur in unserem
 Köpfen entstehen können, z. B. eine exakte Gerade oder das 2 Dinge vollkommen gleich
@@ -111,7 +112,9 @@ worin versucht wird durch Mathematik sich Gott zu nähern. Denn nach ihrer Auffa
 enthalten sind. Das Dualsystem führte zu den für uns heute bekannten Computer, die
 über logischen Schaltungen funktionieren. Sie helfen uns beim Denken bzw. Ausrechnen
 verschiedenster Sachen, von mathematischen Formeln bis hin zu großen Kommunikationsnetzwerken. Gegenwärtig werden sie zu einem großen Netzwerk zusammengeschlossen
-und woraus sich das bekannte Internet bildet. Daher finde ich den Ansatz von Hobbes,
+und woraus sich das bekannte Internet bildet. 
+
+Daher finde ich den Ansatz von Hobbes,
 Leibniz, Searle und Dennet, dass das Denken Rechnen ist, nicht verkehrt. Wir ziehen in
 jeden Moment logische Schlüsse und bedienen uns am Kausalitätsprinzip, sodass aus
 der Ursache die Wirkung folgt, also aus Ereignis A folgt Ereignis B. Dieses universelle
@@ -123,22 +126,25 @@ Körper einwirken aufheben werden. Der Körper verbleibt in seinem derzeitigen B
 in der Hydrodynamik am Beispiel des hydrostatischen Gleichgewichts in einem Stern.
 Diese Idee kann noch erweitert werden, um sich ein erweitertes Verständnis des Nichts
 zu erstellen, so wie es Kant auch schon machte. Wenn sich 2 Prinzipien, Kräfte oder
-Dinge gegenseitig aufheben, führt das folglich zu einer Art Gleichgewicht. Diese Prinzipien sind allerdings noch vorhanden, es entsteht eine Art Nichts. Dieses Nichts ist in
-Wirklichkeit kein Nichts, sondern ein verhältnismäßiges Nichts, wie es Kant auch schon
+Dinge gegenseitig aufheben, führt das folglich zu einer Art Gleichgewicht. Diese Prinzipien sind allerdings noch vorhanden, es entsteht eine Art Nichts. 
+
+Dieses Nichts ist in Wirklichkeit kein Nichts, sondern ein verhältnismäßiges Nichts, wie es Kant auch schon
 formulierte. Dies löste in mir das Problem der Vorstellung des Nichts auf. Jedes Mal
-gelangt man in einem Paradoxon, wenn man versucht sich etwas vorzustellen was nun
+gelangt man in einem Paradoxon, wenn man versucht, sich etwas vorzustellen, was nun
 wirklich das Nichts sei. Das Nichts ist nichts und jede Vorstellung von Nichts gebraucht
 ein Objekt, was zu einem Paradoxon führt. Das verhältnismäßige Nichts wird auch oft in
 mathematischen Problemen angewendet. Die qualitative Null kann jederzeit ohne Verletzung einer mathematischen Regel angewandt werden. Dies führt in der Regel zu einer
 komplizierteren Gleichung, daraus ergeben sich jedoch neue Zusammenhänge, die zuvor
 nicht sichtbar waren. Man sagt auch in der Mathematik, dass man das Problem komplizierter machen soll, damit wird das eigentliche Problem leichter zu lösen sein. Zu diesem
 Thema beschäftigten wir uns mit Auszügen aus ,,Wissenschaft und Hypothes`` von mir
-dem mir unbekannten Genie Henri Poincare. Henri Poincare war einer der Pioniere der
+dem mir unbekannten Genie Henri Poincare. 
+
+Henri Poincare war einer der Pioniere der
 neuen Physik, weg von der klassischen hin zur Relativitätstheorie. Schade das Einstein
 und Poincare nicht viel Kontakt hatten, sie hätten sich gegenseitig stark beeinflussen
 können. Erstaunlich ist auch, dass er in den Newtonschen Bewegungsgleichungen chaotische Bewegungen gefunden hatte, am Beispiel des Dreikörperproblems. Vorher dachte
 man, dass durch die Newtonschen Gleichungen alles auf der Welt deterministisch sei und
-es zu einer Art Uhrwerk machte. Mit dem Text konnte ich anfangs nicht viel anfangen.
+es zu einer Art Uhrwerk machte. Mit dem Text ,,Wissenschaft und Hypothes`` konnte ich anfangs nicht viel anfangen.
 Erst durch das Seminar wurde mir die Fülle an Wissen offenbart. Am meisten faszinierte mich die Idee der Geometrie als Sprache, das dasselbe Objekt mit unterschiedlichen
 Geometrien beschrieben werden kann. Dieses Verfahren wird auch oft in der Physik
 angewandt, wenn es um lösen von Differenzialgleichungen geht. Viele der angewandten
@@ -148,7 +154,9 @@ angewandt. Im Allgemeinen besteht jedes beliebige Koordinatensystem aus sich geg
 können und jeder beliebige Vektor in diesem System dargestellt werden kann. Genauso
 wird zwischen diesen Koordinatensystemen auch mittels Koordinatentransformationen hin
 und her gewechselt. Einige Probleme lassen sich besser in sphärischen als in kartesische
-Koordinaten lösen. Auf ähnlicher Weise kann es auch auf die gesprochene Sprache angewandt werden. Dies führt mich zu den Gedanken der universellen Sprache oder auch
+Koordinaten lösen. Auf ähnlicher Weise kann es auch auf die gesprochene Sprache angewandt werden. 
+
+Dies führt mich zu den Gedanken der universellen Sprache oder auch
 Geometrie. Gibt es eine universelle Sprache oder Geometrie, die jeder versteht und anwenden kann? Zumindest versucht man es derzeit im Bereich der Sprachen die englische
 Sprache, als die Weltsprache zu etablieren. Die kartesischen Koordinaten hingegen sind
 auch weltweit in Gebrauch. Aber könnte die kartesische Geometrie die universelle Geometrie oder Sprache des Universums sein der gibt es diese universelle Geometrie nicht?
@@ -163,7 +171,9 @@ Die Mathematik ist auch die Sprache des Intellekts und des Problemlösens. Viell
 ist es wie mit der Geometrie, das jede beliebige Sprache das Universum erklären könnte.
 Leider bezieht sie sich nur auf den rationalen Bereich des Menschen und vergisst dabei
 den emotionalen intuitiven Bereich. Der nächste Schritt wäre die Mathematik auf diesen
-Bereich auszuweiten. Diesen nächsten Schritt sehe ich in dem heuristischen Ansatz, welches Thema im nächsten Seminarvortrag war. An diesem Seminar war ich bedauerlicherweise nicht
+Bereich auszuweiten. 
+
+Diesen nächsten Schritt sehe ich in dem heuristischen Ansatz, welches Thema im nächsten Seminarvortrag war. An diesem Seminar war ich bedauerlicherweise nicht
 dabei. Aber umso mehr verblüfften mich die Ansätze von Friedrich Schleiermacher, zu dem wir auch ein paar Texte lasen. Der Ansatz von Schleiermacher geht in eine ganze andere Richtung als bei Kant, Descartes oder vielen anderen großen Philosophen. Es wird
 der Versuch unternommen von der Mitte heraus zu philosophieren. Es lässt sich schwer
 vorstellen ganz von null auf zu philosophieren. Wie soll man von diesem Nichtwissen zu
@@ -174,24 +184,26 @@ und Heuristik angewendet werden. Die Dialektik verwendet das Prinzip der Gegens�
 man klopft das Problem auf vorhandene Extrema ab. Also man versucht die vorhandenen Gegensätze in dem Problem zu finden um neue Vergleiche und Analogien zu finden,
 was das untersuchte Problem lösen könnte. Diese Methode erinnert an die Ansätze von
 Leibniz des Dualsystems oder auch die der Mathematik im Finden von Minima, Maxima
-und Definitionsbereichen(Verhalten im Unendlichen) einer gegebenen Funktion. Dieses
+und Definitionsbereichen(Verhalten im Unendlichen) einer gegebenen Funktion. 
+
+Dieses
 Prinzip fand auch Anwendung bei Hermann Graßmann, dessen Werk ,,die Lineale Ausdehnungslehre`` wir in kleinen Auszügen besprachen.
 Mich beeindrucke wie er mit Eleganz und Schönheit die neue Mathematik erklärte. Er
-verband die beiden Denkansätze der Mathematik und Philosophie erschuf damit neue
+verband die beiden Denkansätze der Mathematik und Philosophie und erschuf damit neue
 Gebiete der Mathematik und beeinflusste nachhaltig den Mathematiker Bernhard Riemann. Die Verbindung zwischen Philosophie und Mathematik wurde am deutlichsten in
 der Aufteilung der Mathematik in 4 Kategorien, in dem das Prinzip der Gegensätze voll
 zur Geltung kommt (Siehe Tabelle \ref{Tab:Grass}):
 
 \begin{table}[htp!]
-\begin{center}
-\caption{Aufteilung der Mathematik nach Hermann Graßmann}
-\begin{tabular}{l|c|c}
- & gleich & ungleich \\\hline
- diskret & Arithmetik & Kombinatorik \\ \hline
- stetig & Funktionentheorie & Geometrie / N-dim Lehre
- \label{Tab:Grass}
-\end{tabular}
-\end{center}
+	\begin{center}
+	\caption{Aufteilung der Mathematik nach Hermann Graßmann}
+	\begin{tabular}{l|c|c}
+	& gleich & ungleich \\\hline
+	diskret & Arithmetik & Kombinatorik \\ \hline
+	stetig & Funktionentheorie & Geometrie / N-dim Lehre
+	\label{Tab:Grass}
+	\end{tabular}
+	\end{center}
 \end{table}
 
 Aus dieser Methode entwickelte er die Komplexionen
@@ -202,12 +214,14 @@ verwendet. In diesen Räumen werden die einzelnen Zustände des Systems festgeha
 um daraus eine Vorhersage des weiteren Verlaufs des Systemzustands zu erstellen. Diese
 Idee wurde durch Henri Poincare zu den sogenannten Attraktoren weiterentwickelt. Der
 Art und Weise wie Hermann Graßmann die Mathematik mit der Philosophie verbannt
-sollte auch in vielen interdisziplinären Bereichen angewandt werden. Ich bin der Meinung
-das es der Menschheit mehr bringt ein holistischen Ansatz zur Naturbeschreibung zu benutzen als nur physikalisch, philosophisch, mathematisch usw. zu argumentieren. Diese
+sollte auch in vielen interdisziplinären Bereichen angewandt werden. Ich bin der Meinung, 
+dass es der Menschheit mehr bringt ein holistischen Ansatz zur Naturbeschreibung zu benutzen als nur physikalisch, philosophisch, mathematisch usw. zu argumentieren. Diese
 Welt besteht aus all diesen Teilbereichen und diese Denksätze müssten zu einem neuen holistischen Denkansatz zusammengeführt werden. Was bringen uns all diese neuen
 Überlegungen, wenn diese nicht an die nächste Generation der Menschheit weitergeben werden? Leider wird in unserem heutigen Bildungssystem vermehrt auf getrennte
 Denkansätze gesetzt, d. h. die Naturwissenschaftliche Fächer werden in Biologie, Physik, Chemie, Mathematik usw. getrennt. Diese Denkweise unterstützt die Ausbildung von
-„Fachidioten“ und lässt eine verengte Sicht auf die Welt entstehen. Pestallozi entwickelte
+„Fachidioten“ und lässt eine verengte Sicht auf die Welt entstehen. 
+
+Pestallozi entwickelte
 eine neue Pädagogik im 19. Jahrhundert mit einem bemerkenswerten holistischer Ansatz.
 Bedauerlicherweise setzte sich dieser Bildungsansatz in Deutschland nicht wirklich durch. Doch dabei
 ist es so wichtig, offen gegenüber anderen Dinge zu sein. Nicht nur der Aspekt des holistischen Ansatzes ist hier von großer Bedeutung, sondern das die Vermittlung von Wissen
@@ -218,7 +232,9 @@ stecken am häufigsten an den Grundlagen fest und wollen nicht akzeptieren, dass
 hohes Maß an Abstraktion und viele Menschen wollen die Objekte nicht so sehr abstrahieren das man nur noch die blanken geometrischen Formen vor sich sieht. Sie sehen die
 Objekte oft noch mit holistischen Augen als ein Mathematiker. Diese Vermittlung von
 Wissen kann nicht nur in der Bildung angewandt werden, sondern hilft auch beim Lösen
-von Problemen. Wir alle haben bestimmt schon erlebt wie wir jemanden von einem Problem berichteten und uns durch eine Bemerkung oder einfach durch Zuhören plötzlich
+von Problemen. 
+
+Wir alle haben bestimmt schon erlebt wie wir jemanden von einem Problem berichteten und uns durch eine Bemerkung oder einfach durch Zuhören plötzlich
 eine Idee zur Lösung einfällt. Heinrich von Kleist beschreibt in seinem Text über die
 „allmähliche Verfertigung der Gedanken beim Reden“ genau dieses Phänomen. Im darauf
 folgenden Seminar beschäftigten wir uns mit Auszügen aus den Werken Herbarts „ABC
@@ -261,8 +277,9 @@ werden. Die Mathematik kann uns in vielen Bereichen behilflich sein, um die Stru
 unser Denken aus und macht uns zu kritischen Menschen, die die heutige Welt dringend
 braucht.
 
-
+\begin{quote}
 Denken ist Teil der Mathematik und Mathematik ist Teil des Denkens.
+\end{quote}
 
 \end{document}
 ```

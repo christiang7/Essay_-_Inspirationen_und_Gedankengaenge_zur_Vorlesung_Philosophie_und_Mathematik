@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2025/dev/Debian)  (format=lualatex 2025.8.21)  26 AUG 2025 22:42
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2025/dev/Debian)  (format=lualatex 2025.8.21)  27 AUG 2025 00:13
  system commands enabled.
 **Essay_-_Inspirationen_und_Gedankengänge_zur_Vorlesung_Philosophie_und_Mathem
 atik.tex
@@ -1416,15 +1416,15 @@ File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 52.
+(Font)              <8> on input line 56.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 52.
+(Font)              <6> on input line 56.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 52.
+(Font)              <7> on input line 56.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 52.
+(Font)              <5> on input line 56.
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 5
-2.
+6.
 
 (/usr/share/texmf/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
@@ -1434,26 +1434,31 @@ File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 <Schlegel_wireframe_8-cell.png, id=22, 192.72pt x 192.72pt>
 File: Schlegel_wireframe_8-cell.png Graphic file (type png)
 <use Schlegel_wireframe_8-cell.png>
-Package luatex.def Info: Schlegel_wireframe_8-cell.png  used on input line 57.
+Package luatex.def Info: Schlegel_wireframe_8-cell.png  used on input line 61.
 (luatex.def)             Requested size: 192.71951pt x 192.71951pt.
 
 
 [3<./Schlegel_wireframe_8-cell.png>]
 
 [4]
-<zwei_Farben.pdf, id=43, 227.85126pt x 227.85126pt>
-File: zwei_Farben.pdf Graphic file (type pdf)
-<use zwei_Farben.pdf>
-Package luatex.def Info: zwei_Farben.pdf  used on input line 195.
-(luatex.def)             Requested size: 227.8507pt x 227.8507pt.
-
 
 [5]
+Overfull \hbox (13.95457pt too wide) in paragraph at lines 187--199
+[]\T1/lmr/m/n/12 Pestal-lozi en-twick-elte eine neue Päd-a-gogik im 19. Jahrhun
+-dert mit einem be-merkenswerten
+ []
+
+<zwei_Farben.pdf, id=49, 227.85126pt x 227.85126pt>
+File: zwei_Farben.pdf Graphic file (type pdf)
+<use zwei_Farben.pdf>
+Package luatex.def Info: zwei_Farben.pdf  used on input line 211.
+(luatex.def)             Requested size: 227.8507pt x 227.8507pt.
+
 
 [6<./zwei_Farben.pdf>]
 
 [7]
-runsystem(latexminted cleantemp  --timestamp 20250826224246 7A33E2808ECF9931E55C
+runsystem(latexminted cleantemp  --timestamp 20250827001339 7A33E2808ECF9931E55C
 34E262B001AA)...executed.
 
 (./Essay_-_Inspirationen_und_Gedankengänge_zur_Vorlesung_Philosophie_und_Mathe
@@ -1468,13 +1473,13 @@ _Vorlesung_Philosophie_und_Mathematik.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 35675 strings out of 475512
- 125005,1648299 words of node,token memory allocated
+ 35677 strings out of 475512
+ 100000,1648299 words of node,token memory allocated
  601 words of node memory still in use:
    7 hlist, 2 vlist, 2 rule, 7 glue, 4 kern, 1 glyph, 17 attribute, 60 glue_spec
 , 10 attribute_list, 2 write nodes
-   avail lists: 1:1,2:425,3:119,4:62,5:885,6:14,7:13079,8:69,9:267,10:26,11:839
- 57734 multiletter control sequences out of 65536+600000
+   avail lists: 1:1,2:311,3:117,4:50,5:721,6:15,7:9504,8:69,9:217,10:17,11:629
+ 57736 multiletter control sequences out of 65536+600000
  75 fonts using 4667639 bytes
  108i,8n,101p,11003b,539s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/d
@@ -1485,7 +1490,7 @@ ts/type1/public/lm/lmr7.pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></u
 sr/share/texmf/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf/fonts/type1/
 public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb>
 Output written on Essay_-_Inspirationen_und_Gedankengänge_zur_Vorlesung_Philoso
-phie_und_Mathematik.pdf (7 pages, 549095 bytes).
+phie_und_Mathematik.pdf (7 pages, 549088 bytes).
 
 PDF statistics: 96 PDF objects out of 1000 (max. 8388607)
  73 compressed objects within 1 object stream
