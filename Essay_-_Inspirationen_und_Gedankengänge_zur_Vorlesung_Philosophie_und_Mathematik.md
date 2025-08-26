@@ -1,5 +1,4 @@
-===== Essay_Ch =====
-# Essay_Ch
+# Essay - Inspirationen und Gedankengänge zur Vorlesung Philosophie und Mathematik
 Created 2025-08-26
 
 
@@ -42,13 +41,13 @@ Created 2025-08-26
 a4paper]{scrartcl}
 \input{general-preamble.tex}
 \input{color-style.tex}
-
+\selectlanguage{ngerman}
 \title{Essay - Inspirationen und Gedankengänge\\
 zur Vorlesung Philosophie und Mathematik}
 \author{Christian Gößl}
 \date{2014-08-05}
 
-\begin{document}\selectlanguage{german}
+\begin{document}
 \maketitle
 
 \newpage

@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2025/dev/Debian)  (format=lualatex 2025.8.21)  26 AUG 2025 22:37
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2025/dev/Debian)  (format=lualatex 2025.8.21)  26 AUG 2025 22:42
  system commands enabled.
 **Essay_-_Inspirationen_und_Gedankengänge_zur_Vorlesung_Philosophie_und_Mathem
 atik.tex
@@ -1244,11 +1244,7 @@ LaTeX Warning: Unused global option(s):
 
 
 (./Essay_-_Inspirationen_und_Gedankengänge_zur_Vorlesung_Philosophie_und_Mathe
-matik.aux
-(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/de/babel-german.tex)
-Package babel Info: Importing data for german
-(babel)             from babel-de.ini. Reported on input line 13.
-)
+matik.aux)
 \openout1 = Essay_-_Inspirationen_und_Gedankengänge_zur_Vorlesung_Philosophie_und_Mathematik.aux
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
@@ -1271,17 +1267,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 13.
 LaTeX Font Info:    ... okay on input line 13.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 13.
 LaTeX Font Info:    ... okay on input line 13.
-Package scrbase Info: activating english \abstractname on input line 13.
-Package scrbase Info: activating english \partname on input line 13.
-Package scrbase Info: activating english \figurename on input line 13.
-Package scrbase Info: activating english \tablename on input line 13.
-Package scrbase Info: activating english \contentsname on input line 13.
-Package scrbase Info: activating english \listfigurename on input line 13.
-Package scrbase Info: activating english \listtablename on input line 13.
-Package scrbase Info: activating english \refname on input line 13.
-Package scrbase Info: activating english \indexname on input line 13.
-
-(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+ (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count380
 \scratchdimen=\dimen320
@@ -1467,7 +1453,7 @@ Package luatex.def Info: zwei_Farben.pdf  used on input line 195.
 [6<./zwei_Farben.pdf>]
 
 [7]
-runsystem(latexminted cleantemp  --timestamp 20250826223728 7A33E2808ECF9931E55C
+runsystem(latexminted cleantemp  --timestamp 20250826224246 7A33E2808ECF9931E55C
 34E262B001AA)...executed.
 
 (./Essay_-_Inspirationen_und_Gedankengänge_zur_Vorlesung_Philosophie_und_Mathe
@@ -1482,14 +1468,13 @@ _Vorlesung_Philosophie_und_Mathematik.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 35816 strings out of 475512
- 125007,1648299 words of node,token memory allocated
- 599 words of node memory still in use:
-   7 hlist, 2 vlist, 2 rule, 7 glue, 4 kern, 1 glyph, 16 attribute, 60 glue_spec
+ 35675 strings out of 475512
+ 125005,1648299 words of node,token memory allocated
+ 601 words of node memory still in use:
+   7 hlist, 2 vlist, 2 rule, 7 glue, 4 kern, 1 glyph, 17 attribute, 60 glue_spec
 , 10 attribute_list, 2 write nodes
-   avail lists: 1:1,2:425,3:114,4:80,5:885,6:14,7:13800,8:69,9:267,10:31,11:1555
-
- 57868 multiletter control sequences out of 65536+600000
+   avail lists: 1:1,2:425,3:119,4:62,5:885,6:14,7:13079,8:69,9:267,10:26,11:839
+ 57734 multiletter control sequences out of 65536+600000
  75 fonts using 4667639 bytes
  108i,8n,101p,11003b,539s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/d
@@ -1500,7 +1485,7 @@ ts/type1/public/lm/lmr7.pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></u
 sr/share/texmf/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf/fonts/type1/
 public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb>
 Output written on Essay_-_Inspirationen_und_Gedankengänge_zur_Vorlesung_Philoso
-phie_und_Mathematik.pdf (7 pages, 549027 bytes).
+phie_und_Mathematik.pdf (7 pages, 549095 bytes).
 
 PDF statistics: 96 PDF objects out of 1000 (max. 8388607)
  73 compressed objects within 1 object stream
