@@ -1,4 +1,4 @@
 #!/bin/bash
-# Di 26. Aug 22:29:42 CEST 2025
+# Di 26. Aug 22:37:25 CEST 2025
 export CHROME_DEVEL_SANDBOX=/usr/local/sbin/chrome-devel-sandbox
-noweb.py -REssay_Ch.tex Essay_Ch.md > Essay_Ch.tex && lualatex -interaction=nonstopmode -shell-escape Essay_Ch.tex && lualatex -interaction=nonstopmode -shell-escape Essay_Ch.tex && date && xdg-open Essay_Ch.pdf 2>/dev/null
+noweb.py -REssay_-_Inspirationen_und_Gedankengänge_zur_Vorlesung_Philosophie_und_Mathematik.tex Essay_-_Inspirationen_und_Gedankengänge_zur_Vorlesung_Philosophie_und_Mathematik.md > Essay_-_Inspirationen_und_Gedankengänge_zur_Vorlesung_Philosophie_und_Mathematik.tex && lualatex -interaction=nonstopmode -shell-escape Essay_-_Inspirationen_und_Gedankengänge_zur_Vorlesung_Philosophie_und_Mathematik.tex && lualatex -interaction=nonstopmode -shell-escape Essay_-_Inspirationen_und_Gedankengänge_zur_Vorlesung_Philosophie_und_Mathematik.tex && date && xdg-open Essay_-_Inspirationen_und_Gedankengänge_zur_Vorlesung_Philosophie_und_Mathematik.pdf 2>/dev/null

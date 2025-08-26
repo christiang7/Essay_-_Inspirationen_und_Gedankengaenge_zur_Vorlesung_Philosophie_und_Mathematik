@@ -34,7 +34,7 @@ Created 2025-08-26
  
 ## Latex File
  
-*Essay_Ch.tex*
+*Essay_-_Inspirationen_und_Gedankengänge_zur_Vorlesung_Philosophie_und_Mathematik.tex*
 ```tex
 \documentclass[DIN,
 	% Schriftgröße
@@ -43,8 +43,8 @@ a4paper]{scrartcl}
 \input{general-preamble.tex}
 \input{color-style.tex}
 
-\title{Essay zur Vorlesung Philosophie und Mathematik \\
-Inspirationen und Gedankengänge}
+\title{Essay - Inspirationen und Gedankengänge\\
+zur Vorlesung Philosophie und Mathematik}
 \author{Christian Gößl}
 \date{2014-08-05}
 
@@ -272,7 +272,7 @@ Denken ist Teil der Mathematik und Mathematik ist Teil des Denkens.
 
 *make.sh*
 ```bash
-noweb.py -REssay_Ch.tex Essay_Ch.md > Essay_Ch.tex && lualatex -interaction=nonstopmode -shell-escape Essay_Ch.tex && lualatex -interaction=nonstopmode -shell-escape Essay_Ch.tex && date && xdg-open Essay_Ch.pdf 2>/dev/null 
+noweb.py -REssay_-_Inspirationen_und_Gedankengänge_zur_Vorlesung_Philosophie_und_Mathematik.tex Essay_-_Inspirationen_und_Gedankengänge_zur_Vorlesung_Philosophie_und_Mathematik.md > Essay_-_Inspirationen_und_Gedankengänge_zur_Vorlesung_Philosophie_und_Mathematik.tex && lualatex -interaction=nonstopmode -shell-escape Essay_-_Inspirationen_und_Gedankengänge_zur_Vorlesung_Philosophie_und_Mathematik.tex && lualatex -interaction=nonstopmode -shell-escape Essay_-_Inspirationen_und_Gedankengänge_zur_Vorlesung_Philosophie_und_Mathematik.tex && date && xdg-open Essay_-_Inspirationen_und_Gedankengänge_zur_Vorlesung_Philosophie_und_Mathematik.pdf 2>/dev/null 
 ```
 
 

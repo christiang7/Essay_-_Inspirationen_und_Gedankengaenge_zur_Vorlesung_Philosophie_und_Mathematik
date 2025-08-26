@@ -1,7 +1,10 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2025/dev/Debian)  (format=lualatex 2025.8.21)  26 AUG 2025 22:29
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2025/dev/Debian)  (format=lualatex 2025.8.21)  26 AUG 2025 22:37
  system commands enabled.
-**Essay_Ch.tex
-(./Essay_Ch.tex
+**Essay_-_Inspirationen_und_Gedankengänge_zur_Vorlesung_Philosophie_und_Mathem
+atik.tex
+
+(./Essay_-_Inspirationen_und_Gedankengänge_zur_Vorlesung_Philosophie_und_Mathe
+matik.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 Lua module: luaotfload 2024-12-03 v3.29 Lua based OpenType font support
@@ -488,10 +491,13 @@ Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
 (/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 ))
-runsystem(uname -s > "Essay_Ch.w18")...executed.
+runsystem(uname -s > "Essay_-_Inspirationen_und_Gedankengänge_zur_Vorlesung_Phi
+losophie_und_Mathematik.w18")...executed.
 
-(./Essay_Ch.w18)
-runsystem(rm -- "Essay_Ch.w18")...executed.
+(./Essay_-_Inspirationen_und_Gedankengänge_zur_Vorlesung_Philosophie_und_Mathe
+matik.w18)
+runsystem(rm -- "Essay_-_Inspirationen_und_Gedankengänge_zur_Vorlesung_Philosop
+hie_und_Mathematik.w18")...executed.
 )
 \c@svg@param@lastpage=\count277
 \svg@box=\box56
@@ -1236,12 +1242,14 @@ Inserting `l3color' in `luaotfload.parse_color'.
 LaTeX Warning: Unused global option(s):
     [DIN].
 
-(./Essay_Ch.aux
+
+(./Essay_-_Inspirationen_und_Gedankengänge_zur_Vorlesung_Philosophie_und_Mathe
+matik.aux
 (/usr/share/texlive/texmf-dist/tex/generic/babel/locale/de/babel-german.tex)
 Package babel Info: Importing data for german
 (babel)             from babel-de.ini. Reported on input line 13.
 )
-\openout1 = Essay_Ch.aux
+\openout1 = Essay_-_Inspirationen_und_Gedankengänge_zur_Vorlesung_Philosophie_und_Mathematik.aux
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
 LaTeX Font Info:    ... okay on input line 13.
@@ -1338,10 +1346,14 @@ Package caption Info: End \AtBeginDocument code.
 Package tocbasic Info: setting babel extension for `lol' on input line 13.
 \scr@dte@lstlisting@maxnumwidth=\skip76
 Package hyperref Info: Link coloring OFF on input line 13.
-(./Essay_Ch.out) (./Essay_Ch.out)
+
+(./Essay_-_Inspirationen_und_Gedankengänge_zur_Vorlesung_Philosophie_und_Mathe
+matik.out)
+(./Essay_-_Inspirationen_und_Gedankengänge_zur_Vorlesung_Philosophie_und_Mathe
+matik.out)
 \@outlinefile=\write6
 
-\openout6 = Essay_Ch.out
+\openout6 = Essay_-_Inspirationen_und_Gedankengänge_zur_Vorlesung_Philosophie_und_Mathematik.out
 Class scrartcl Info: loading recommended package `bookmark'.
 (scrartcl)           Using `bookmark' together with `hyperref' is recommended,
 (scrartcl)           because of handling of possible bookmark level gaps.
@@ -1350,8 +1362,7 @@ Class scrartcl Info: loading recommended package `bookmark'.
 (scrartcl)           you can avoid this message adding:
 (scrartcl)             \usepackage{bookmark}
 (scrartcl)           before \begin{document} on input line 13.
-
-(/usr/share/texlive/texmf-dist/tex/latex/bookmark/bookmark.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/bookmark/bookmark.sty
 Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
 
 (/usr/share/texlive/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
@@ -1456,14 +1467,17 @@ Package luatex.def Info: zwei_Farben.pdf  used on input line 195.
 [6<./zwei_Farben.pdf>]
 
 [7]
-runsystem(latexminted cleantemp  --timestamp 20250826222945 DC7CF3F7A0105C33CD7D
-06F1ED9FD834)...executed.
- (./Essay_Ch.aux)
+runsystem(latexminted cleantemp  --timestamp 20250826223728 7A33E2808ECF9931E55C
+34E262B001AA)...executed.
+
+(./Essay_-_Inspirationen_und_Gedankengänge_zur_Vorlesung_Philosophie_und_Mathe
+matik.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
-Package rerunfilecheck Info: File `Essay_Ch.out' has not changed.
+Package rerunfilecheck Info: File `Essay_-_Inspirationen_und_Gedankengänge_zur
+_Vorlesung_Philosophie_und_Mathematik.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 )
 
@@ -1477,7 +1491,7 @@ Here is how much of LuaTeX's memory you used:
 
  57868 multiletter control sequences out of 65536+600000
  75 fonts using 4667639 bytes
- 108i,8n,101p,10930b,539s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 108i,8n,101p,11003b,539s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/d
 vips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share
 /texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/l
@@ -1485,7 +1499,8 @@ mr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/fon
 ts/type1/public/lm/lmr7.pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></u
 sr/share/texmf/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf/fonts/type1/
 public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb>
-Output written on Essay_Ch.pdf (7 pages, 548942 bytes).
+Output written on Essay_-_Inspirationen_und_Gedankengänge_zur_Vorlesung_Philoso
+phie_und_Mathematik.pdf (7 pages, 549027 bytes).
 
 PDF statistics: 96 PDF objects out of 1000 (max. 8388607)
  73 compressed objects within 1 object stream
