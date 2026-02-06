@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2025/dev/Debian)  (format=lualatex 2025.8.21)  27 AUG 2025 00:13
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2025/dev/Debian)  (format=lualatex 2025.10.23)  6 FEB 2026 22:30
  system commands enabled.
 **Essay_-_Inspirationen_und_Gedankengänge_zur_Vorlesung_Philosophie_und_Mathem
 atik.tex
@@ -301,61 +301,61 @@ eX and XeLaTeX
 \l@dumylang=\language2
 Package babel Info: Non-standard hyphenation setup on input line 118.
 \l@nohyphenation=\language3
-\l@german=\language4
-\l@ukrainian=\language5
-\l@macedonian=\language6
-\l@classiclatin=\language7
-\l@piedmontese=\language8
-\l@ukenglish=\language9
-\l@turkish=\language10
-\l@schoolfinnish=\language11
-\l@lithuanian=\language12
-\l@finnish=\language13
-\l@serbianc=\language14
-\l@latvian=\language15
-\l@churchslavonic=\language16
-\l@occitan=\language17
-\l@dutch=\language18
-\l@kurmanji=\language19
-\l@monogreek=\language20
-\l@polish=\language21
-\l@mongolianlmc=\language22
-\l@ngerman=\language23
-\l@uppersorbian=\language24
-\l@bulgarian=\language25
-\l@nynorsk=\language26
-\l@mongolian=\language27
-\l@catalan=\language28
-\l@icelandic=\language29
-\l@croatian=\language30
-\l@welsh=\language31
-\l@romansh=\language32
-\l@spanish=\language33
-\l@french=\language34
-\l@belarusian=\language35
-\l@romanian=\language36
-\l@swissgerman=\language37
-\l@greek=\language38
-\l@usenglishmax=\language39
-\l@albanian=\language40
-\l@hungarian=\language41
-\l@russian=\language42
-\l@bokmal=\language43
-\l@ancientgreek=\language44
-\l@irish=\language45
-\l@estonian=\language46
-\l@ngerman-x-2024-02-28=\language47
-\l@slovenian=\language48
-\l@serbian=\language49
-\l@danish=\language50
-\l@german-x-2024-02-28=\language51
-\l@basque=\language52
-\l@latin=\language53
-\l@ibycus=\language54
-\l@friulan=\language55
+\l@piedmontese=\language4
+\l@russian=\language5
+\l@bokmal=\language6
+\l@friulan=\language7
+\l@occitan=\language8
+\l@danish=\language9
+\l@estonian=\language10
+\l@irish=\language11
+\l@belarusian=\language12
+\l@uppersorbian=\language13
+\l@slovenian=\language14
+\l@german=\language15
+\l@mongolianlmc=\language16
+\l@monogreek=\language17
+\l@german-x-2024-02-28=\language18
+\l@ibycus=\language19
+\l@schoolfinnish=\language20
+\l@serbian=\language21
+\l@serbianc=\language22
+\l@greek=\language23
+\l@french=\language24
+\l@ngerman-x-2024-02-28=\language25
+\l@latin=\language26
+\l@swedish=\language27
+\l@ngerman=\language28
+\l@spanish=\language29
+\l@polish=\language30
+\l@romansh=\language31
+\l@latvian=\language32
+\l@mongolian=\language33
+\l@albanian=\language34
+\l@macedonian=\language35
+\l@croatian=\language36
+\l@ukrainian=\language37
+\l@welsh=\language38
+\l@hungarian=\language39
+\l@ukenglish=\language40
+\l@lithuanian=\language41
+\l@kurmanji=\language42
+\l@romanian=\language43
+\l@dutch=\language44
+\l@galician=\language45
+\l@icelandic=\language46
+\l@ancientgreek=\language47
+\l@usenglishmax=\language48
+\l@nynorsk=\language49
+\l@swissgerman=\language50
+\l@catalan=\language51
+\l@turkish=\language52
+\l@classiclatin=\language53
+\l@bulgarian=\language54
+\l@churchslavonic=\language55
 \l@liturgicallatin=\language56
-\l@swedish=\language57
-\l@galician=\language58
+\l@finnish=\language57
+\l@basque=\language58
 \babelcatcodetablenum=\catcodetable16
 \bbl@pattcodes=\catcodetable17
 )
@@ -385,9 +385,9 @@ Language: english 2017/06/06 v3.3r English support from the babel system
 Package babel Info: Hyphen rules for 'canadian' set to \l@english
 (babel)             (\language0). Reported on input line 102.
 Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
-(babel)             (\language9). Reported on input line 105.
+(babel)             (\language40). Reported on input line 105.
 Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
-(babel)             (\language9). Reported on input line 108.
+(babel)             (\language40). Reported on input line 108.
 )) (/usr/share/texlive/texmf-dist/tex/generic/babel/locale/en/babel-english.tex
 Package babel Info: Importing font and identification data for english
 (babel)             from babel-en.ini. Reported on input line 11.
@@ -1227,6 +1227,9 @@ File: csquotes.cfg
 (./color-style.tex
 Package hyperref Info: Option `colorlinks' set `false' on input line 94.
 )
+(/usr/share/texlive/texmf-dist/tex/generic/babel/locale/de/babel-german.tex)
+Package babel Info: Importing data for german
+(babel)             from babel-de.ini. Reported on input line 7.
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
@@ -1458,7 +1461,7 @@ Package luatex.def Info: zwei_Farben.pdf  used on input line 211.
 [6<./zwei_Farben.pdf>]
 
 [7]
-runsystem(latexminted cleantemp  --timestamp 20250827001339 7A33E2808ECF9931E55C
+runsystem(latexminted cleantemp  --timestamp 20260206223009 7A33E2808ECF9931E55C
 34E262B001AA)...executed.
 
 (./Essay_-_Inspirationen_und_Gedankengänge_zur_Vorlesung_Philosophie_und_Mathe
@@ -1473,13 +1476,13 @@ _Vorlesung_Philosophie_und_Mathematik.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 35677 strings out of 475512
+ 35819 strings out of 475512
  100000,1648299 words of node,token memory allocated
  601 words of node memory still in use:
    7 hlist, 2 vlist, 2 rule, 7 glue, 4 kern, 1 glyph, 17 attribute, 60 glue_spec
 , 10 attribute_list, 2 write nodes
    avail lists: 1:1,2:311,3:117,4:50,5:721,6:15,7:9504,8:69,9:217,10:17,11:629
- 57736 multiletter control sequences out of 65536+600000
+ 57871 multiletter control sequences out of 65536+600000
  75 fonts using 4667639 bytes
  108i,8n,101p,11003b,539s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/d

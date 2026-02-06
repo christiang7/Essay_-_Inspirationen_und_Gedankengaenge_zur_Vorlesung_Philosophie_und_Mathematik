@@ -288,7 +288,7 @@ Denken ist Teil der Mathematik und Mathematik ist Teil des Denkens.
 
 *make.sh*
 ```bash
-noweb.py -REssay_-_Inspirationen_und_Gedankengänge_zur_Vorlesung_Philosophie_und_Mathematik.tex Essay_-_Inspirationen_und_Gedankengänge_zur_Vorlesung_Philosophie_und_Mathematik.md > Essay_-_Inspirationen_und_Gedankengänge_zur_Vorlesung_Philosophie_und_Mathematik.tex && lualatex -interaction=nonstopmode -shell-escape Essay_-_Inspirationen_und_Gedankengänge_zur_Vorlesung_Philosophie_und_Mathematik.tex && lualatex -interaction=nonstopmode -shell-escape Essay_-_Inspirationen_und_Gedankengänge_zur_Vorlesung_Philosophie_und_Mathematik.tex && date && xdg-open Essay_-_Inspirationen_und_Gedankengänge_zur_Vorlesung_Philosophie_und_Mathematik.pdf 2>/dev/null 
+noweb.py -REssay_-_Inspirationen_und_Gedankengänge_zur_Vorlesung_Philosophie_und_Mathematik.tex Essay_-_Inspirationen_und_Gedankengänge_zur_Vorlesung_Philosophie_und_Mathematik.tex.md > Essay_-_Inspirationen_und_Gedankengänge_zur_Vorlesung_Philosophie_und_Mathematik.tex && lualatex -interaction=nonstopmode -shell-escape Essay_-_Inspirationen_und_Gedankengänge_zur_Vorlesung_Philosophie_und_Mathematik.tex && lualatex -interaction=nonstopmode -shell-escape Essay_-_Inspirationen_und_Gedankengänge_zur_Vorlesung_Philosophie_und_Mathematik.tex && date && xdg-open Essay_-_Inspirationen_und_Gedankengänge_zur_Vorlesung_Philosophie_und_Mathematik.pdf 2>/dev/null 
 ```
 
 
