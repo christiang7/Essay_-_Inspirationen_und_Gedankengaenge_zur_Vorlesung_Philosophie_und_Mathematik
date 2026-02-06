@@ -34,7 +34,7 @@ Created 2025-08-26
 ## Latex File
  
 *Essay_-_Inspirationen_und_Gedankengänge_zur_Vorlesung_Philosophie_und_Mathematik.tex*
-```tex
+```latex
 \documentclass[DIN,
 	% Schriftgröße
 	fontsize=12pt,
